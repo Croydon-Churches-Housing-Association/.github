@@ -1,9 +1,9 @@
 # Croydon Churches Housing Association (ccha)
 
-This GitHub organisation is managed by the ICT team at ccha. It hosts internal repositories and projects specifically for company use and is intended only for authorised members of staff.
+This GitHub organisation is managed by the IT team at ccha. It hosts internal repositories and projects specifically for company use and is intended only for authorised members of staff.
 
 ## Access Information
-All repositories under this organisation are private. Only members of the ccha ICT team are authorised to have access.
+All repositories under this organisation are private. Only members of the ccha IT team are authorised to have access.
 
 Access is granted by invitation. If you are an employee or an approved collaborator and require access, please contact the IT team directly before proceeding.
 
