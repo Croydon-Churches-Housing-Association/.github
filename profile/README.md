@@ -1,7 +1,7 @@
 # ccha ICT GitHub Organisation
 ## Welcome to ccha's Internal GitHub page
 
-This GitHub page is used to host and archive all internal repositories and projects specifically for company, use and is intended only for authorised members of our staff.
+This GitHub page is used to host and archive all internal repositories and projects specifically for company use, and is intended only for authorised members of our staff.
 
 ccha ICT Team Members:
 
