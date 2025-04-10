@@ -4,7 +4,8 @@
 This GitHub page is used to host and archive all internal repositories and projects specifically for company use, and is intended only for ccha ICT staff members:
 
 - Kabir Lal
-- Steven Loc
+- Steve Cant
+- [Steven Loc](https://github.com/ccha-StevenL)
 
 
 ### Access Information
