@@ -11,7 +11,7 @@ This GitHub page is used to host and archive all internal repositories and proje
 
 
 ### Access Information
-All repositories under this organization are private. Only members of the ccha ICT team or authorised personnel have access.
+All repositories under this organisation are private. Only members of the ccha ICT team or authorised personnel have access.
 
 Access is granted by invitation only. If you are an employee or an approved collaborator and require access, please contact the IT team directly.
 
