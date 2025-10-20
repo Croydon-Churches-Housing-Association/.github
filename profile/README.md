@@ -5,9 +5,7 @@ This GitHub page is used to host and archive all internal repositories and proje
 
 - Kabir Lal - ICT Manager
 
-- Steve Cant - Application Support Analyst
-
-- [Steven Loc](https://github.com/ccha-StevenL) - IT Support Administrator
+- [Steven Loc](https://github.com/ccha-StevenL) - IT Operations and Support Technician
 
 
 ### Access Information
